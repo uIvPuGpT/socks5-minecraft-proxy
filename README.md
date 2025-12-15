@@ -2,6 +2,10 @@
 
 minimal tcp forwarder that resolves a minecraft srv record and routes traffic through a socks5 proxy :D
 
+## showcase:
+https://github.com/user-attachments/assets/36a74946-a464-48af-a21d-794f22430d08
+
+
 ## structure
 ```
 
@@ -55,5 +59,6 @@ run with:
 python main.py
 
 ```
+
 
 feel free to contribute to this!
